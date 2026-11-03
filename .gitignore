@@ -1,0 +1,13 @@
+# Generated Netlify deployment output
+/dist/
+
+# Original uploads and local-only preview/test artifacts
+/media/raw_photos/
+/kotas-creative-hub-website.zip
+/preview-desktop.png
+/preview-mobile.png
+/test_output.txt
+
+# Operating-system files
+Thumbs.db
+.DS_Store
